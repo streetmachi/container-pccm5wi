@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "streetmachi",
+  "repo": "container-pccm5wi",
+  "name": "streetmachi",
+}
